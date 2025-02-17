@@ -1,4 +1,4 @@
-# breathFirstVisualization
+# breadthFirstVisualization
 Visualization of the Breadth First Search algorithm with customizable JSON settings.
 
 The 3 visible animations are:
