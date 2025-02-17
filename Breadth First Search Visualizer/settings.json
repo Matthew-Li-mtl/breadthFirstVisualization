@@ -1,0 +1,18 @@
+{
+    "loaded?": "settings.json loaded.",
+    "screenWidth": 800,
+    "screenHeight": 800,
+    "tilesPerRow": 100,
+    "tilesPerColumn": 100,
+    "pathSubnodes": 6,
+    "obstacleDensity": 0.3,
+    "startColor": [255, 255, 255],
+    "endColor": [0, 0, 255],
+    "newLayerColor": [255, 0, 0],
+    "wallRenderTime": 1000,
+    "timeBetweenSteps": 1000,
+    "expandLayerWaitTime": 1,
+    "backtrackingTime": 20,
+    "pathGen": "downRight",
+    "lineGenMinStartEndDistance": 10
+}
