@@ -356,8 +356,6 @@ editGrid(startCoord[0], startCoord[1], "S")
 editGrid(endCoord[0], endCoord[1], "E")
 printGridMultiChar(maxLayerLength, charSeparator=" ")
 
-print("Remember to save before running! silly")
-
 done = False
 while not done:
     for event in pygame.event.get(): # User did something
